@@ -13,7 +13,7 @@ Source: Yeh, I-C., & Lien, C. (2009). Expert Systems with Applications, 36(2), 2
 
 
 ## References
-Altman, E. I. (1968). Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy. Journal of Finance, 23(4), 589–609.
-Wiginton, J. C. (1980). A Note on the Comparison of Logit and Discriminant Models of Consumer Credit Behavior. Journal of Financial and Quantitative Analysis, 15(3), 757–770.
-Yeh, I-C., & Lien, C. (2009). The Comparisons of Data Mining Techniques for the Predictive Accuracy of Probability of Default of Credit Card Clients. Expert Systems with Applications, 36(2), 2473–2480.
-Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5–32.
+- Altman, E. I. (1968). Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy. Journal of Finance, 23(4), 589–609.
+- Wiginton, J. C. (1980). A Note on the Comparison of Logit and Discriminant Models of Consumer Credit Behavior. Journal of Financial and Quantitative Analysis, 15(3), 757–770.
+- Yeh, I-C., & Lien, C. (2009). The Comparisons of Data Mining Techniques for the Predictive Accuracy of Probability of Default of Credit Card Clients. Expert Systems with Applications, 36(2), 2473–2480.
+- Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5–32.
